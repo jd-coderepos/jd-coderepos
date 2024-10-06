@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Thank you for visiting my page!
+Glad you’re here!
 
 I am passionate about exploring how AI can enhance scientific workflows. In essence, AI is revolutionizing scientific research by making it quicker and more cost-effective from initial experiments to publication, while also spurring innovation and raising important ethical questions. This is where much of my recent effort is focused.
 
